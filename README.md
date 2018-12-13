@@ -1,0 +1,3 @@
+# coincrawler
+
+Cryptocurrency market predictor
